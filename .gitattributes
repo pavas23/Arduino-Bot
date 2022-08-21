@@ -1,2 +1,2 @@
-*.java linguist-detectable=true  
+*.ino linguist-detectable=true  
 *.cpp linguist-detectable=false  
