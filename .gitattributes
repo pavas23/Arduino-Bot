@@ -1,2 +1,2 @@
-*.arduino linguist-detectable=true  
+*.java linguist-detectable=true  
 *.cpp linguist-detectable=false  
